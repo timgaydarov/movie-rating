@@ -1,7 +1,6 @@
 import './App.css';
 import Stars from './Components/Stars.js';
 
-
 export default function App() {
 	return (
 		<div>
